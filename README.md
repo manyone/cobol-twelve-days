@@ -96,7 +96,7 @@ a partridge in a pear tree
 
 ...
 ```
-
+> 💡 **Bonus**: For the recursion-curious, `twelve_r.cob` offers a fully recursive take, with the inner logic reimplemented as a paragraph that `PERFORM`s itself (GnuCOBOL only). Not recommended for COBOL-74… or actual inventory systems. 😇
 ---
 
 ## 🎄 Merry Christmas!
